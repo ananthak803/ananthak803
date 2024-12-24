@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on: Open Source Projects
 - 🤔 I’m looking for help with: Advanced JavaScript and TypeScript
 - 💬 Ask me about: Web Development, C, C++, Python, JavaScript
-- 📫 How to reach me: [ananthak803@example.com](mailto:ananthak803@gmail.com)
+- 📫 How to reach me: [ananthak803@gmail.com](mailto:ananthak803@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess!
 
 ## Skills
